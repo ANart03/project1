@@ -10,15 +10,15 @@ The novel coronavirus disease (COVID-19) is an infectious disease caused by SARS
   Actual Link: (https://docs.google.com/presentation/d/1btTI8rWNxQeyPw58MR__KLVC7LQuceA2xZn1Fl6JUa4/edit?usp=sharing)
 ## Reason why they selected their topic
 
-  We selected the topic of COVID-19, because we are currently in a situtation where there are still relatively high numbers of people with COVID-19.
+  I selected the topic of COVID-19, because it had a huge inpact on world.
 
-## Description of their source of data
+## Description of  source of data
 
-  Our dataset comes from NYC open data repository, Data Provided by Department of Health and Mental Hygiene (DOHMH).The dataset shows outcomes (confirmed cases, hospitalizations, and deaths) for cohorts defined by each date of specimen collection (specimen_date). For example, if a NYC resident tested positive for SARS-CoV-2 and was subsequently hospitalized, both events would show under the same specimen_date, indicating the date of specimen collection for the positive test and not the date of the hospitalization.
+  My dataset comes from NYC open data repository, Data Provided by Department of Health and Mental Hygiene (DOHMH).The dataset shows outcomes (confirmed cases, hospitalizations, and deaths) for cohorts defined by each date of specimen collection (specimen_date). For example, if a NYC resident tested positive for SARS-CoV-2 and was subsequently hospitalized, both events would show under the same specimen_date, indicating the date of specimen collection for the positive test and not the date of the hospitalization.
 
   The data consists of covid-testing specimens, the extracted date of the specimen results, the number of people tested, the number of people who were tested positive for COVID-19, the number of COVID-19 people who were hospitalized, as well as the number of people who passed away in the hospital due to COVID-19.
 
-## Questions they hope to answer with the data
+## Questions i hope to answer with the data
 
     * Does the number of COVID-19 patients hospitalized correlate with the average percentage of COVID-19 patients who passed away during hospitalization?
   
