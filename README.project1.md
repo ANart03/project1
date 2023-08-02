@@ -69,8 +69,8 @@ The main objective of the machine learning analysis is to predict the corelation
     
   ![](https://github.com/ritawang917/Covid-19-/blob/main/feature%20selection.png)
   
-  My provisional model is Supervised Machine Learning for Regression. Because our database deals with labeled data, we have selected Supervised Machine Learning. We choose regression over classification, because this is a numerical data.
-  Our linear regression model for the number of people who were hospitalized and people who passed away in the hospital due to COVID-19 follows:
+  My provisional model is Supervised Machine Learning for Regression. Because my database deals with labeled data, i have selected Supervised Machine Learning. We choose regression over classification, because this is a numerical data.
+  My linear regression model for the number of people who were hospitalized and people who passed away in the hospital due to COVID-19 follows:
   
   ![](https://github.com/ritawang917/Covid-19-/blob/main/linear.png)
   
@@ -79,7 +79,7 @@ The main objective of the machine learning analysis is to predict the corelation
   ![](https://github.com/ritawang917/Covid-19-/blob/main/ac.png)
   
   
-  We used pandas to clean and analyze the data. The data was cleaned by eliminating the extracted specimen column, changing the data type of the specimen data column to datetime data type, as well as assigning a specimen batch ID to each specimen date for better organization. From our data, we can conclude that there is a linear correlation between the number of people tested positive for COVID-19 and the number of deaths in the hospital. Additionally, the data shows that around late November of 2020, there was a peak of deaths associated with COVID-19; from this point onwards the number of COVID-19 related deaths decreased. The COIVD-19 vaccination was released around the end of 2020, which we can use to infer that the number of deaths due to COVID-19 dropped because the vaccination helped decrease the severity of the symptoms people were experiencing. During this time, quarantine regulations was also strict, which would also be used to infer that quarantine may have also influenced the drop of deaths related to COVID-19 as less people came in contact with people who have COVID-19.
+  I used pandas to clean and analyze the data. The data was cleaned by eliminating the extracted specimen column, changing the data type of the specimen data column to datetime data type, as well as assigning a specimen batch ID to each specimen date for better organization. From our data, we can conclude that there is a linear correlation between the number of people tested positive for COVID-19 and the number of deaths in the hospital. Additionally, the data shows that around late November of 2020, there was a peak of deaths associated with COVID-19; from this point onwards the number of COVID-19 related deaths decreased. The COIVD-19 vaccination was released around the end of 2020, which we can use to infer that the number of deaths due to COVID-19 dropped because the vaccination helped decrease the severity of the symptoms people were experiencing. During this time, quarantine regulations was also strict, which would also be used to infer that quarantine may have also influenced the drop of deaths related to COVID-19 as less people came in contact with people who have COVID-19.
   
   ![](https://github.com/ritawang917/Covid-19-/blob/main/specimen.png)
     
