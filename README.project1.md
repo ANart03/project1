@@ -69,7 +69,7 @@ The main objective of the machine learning analysis is to predict the corelation
     
   ![](https://github.com/ritawang917/Covid-19-/blob/main/feature%20selection.png)
   
-  Our provisional model is Supervised Machine Learning for Regression. Because our database deals with labeled data, we have selected Supervised Machine Learning. We choose regression over classification, because this is a numerical data.
+  My provisional model is Supervised Machine Learning for Regression. Because our database deals with labeled data, we have selected Supervised Machine Learning. We choose regression over classification, because this is a numerical data.
   Our linear regression model for the number of people who were hospitalized and people who passed away in the hospital due to COVID-19 follows:
   
   ![](https://github.com/ritawang917/Covid-19-/blob/main/linear.png)
