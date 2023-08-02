@@ -7,8 +7,7 @@
 The novel coronavirus disease (COVID-19) is an infectious disease caused by SARS-CoV-2 which is a type of coronavirus discovered in 2019. Coronavirus pandemic was originated from China in December 2019, has resulted with over 604 Million cases and 6.5 Million deaths worldwide. With Covid-19 pandemic, we are in a world crisis likes of which hasn’t been seen in 100 years.The enormous scale of the crisis and the impact it is having are naturally causing a lot of fear, uncertainty and anxiety across the world.This situation is particularly stressful because,we cann't predict how things will develop.There is always an uncertainty of our circumstances.The purpose of this project is to evalute various characteristic from New York City COVID-19 dataset to identify the key findings of the data.
   
 
-  Actual Link: [
-](https://docs.google.com/presentation/d/1btTI8rWNxQeyPw58MR__KLVC7LQuceA2xZn1Fl6JUa4/edit?usp=sharing)## Reason why i selected this topic
+  Actual Link: (https://docs.google.com/presentation/d/1btTI8rWNxQeyPw58MR__KLVC7LQuceA2xZn1Fl6JUa4/edit?usp=sharing)## Reason why i selected this topic
 
   I selected the topic of COVID-19, because it had a huge inpact on world.
 
