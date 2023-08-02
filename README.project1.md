@@ -8,7 +8,7 @@ The novel coronavirus disease (COVID-19) is an infectious disease caused by SARS
   
 
   Actual Link: (https://docs.google.com/presentation/d/1btTI8rWNxQeyPw58MR__KLVC7LQuceA2xZn1Fl6JUa4/edit?usp=sharing)
-## Reason why they selected their topic
+## Reason why i selected this topic
 
   I selected the topic of COVID-19, because it had a huge inpact on world.
 
