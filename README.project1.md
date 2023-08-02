@@ -20,11 +20,11 @@ The novel coronavirus disease (COVID-19) is an infectious disease caused by SARS
 
 ## Questions i hope to answer with the data
 
-    * Does the number of COVID-19 patients hospitalized correlate with the average percentage of COVID-19 patients who passed away during hospitalization?
+  * Does the number of COVID-19 patients hospitalized correlate with the average percentage of COVID-19 patients who passed away during hospitalization?
   
-    * By analyzing the data from hospitalization and death rates compared to the tested positive for COVID-19, has the virus appeared to cause a more severe effect on the community?
+  * By analyzing the data from hospitalization and death rates compared to the tested positive for COVID-19, has the virus appeared to cause a more severe effect on the community?
   
-    * Did the time of vaccination correlate with the number of deaths in the hospital due to COVID-19?
+  * Did the time of vaccination correlate with the number of deaths in the hospital due to COVID-19?
   
 ## Resources
 
